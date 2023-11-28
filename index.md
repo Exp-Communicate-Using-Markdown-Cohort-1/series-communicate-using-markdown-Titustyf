@@ -4,14 +4,19 @@ int num[][]={{6,9},{2,5},{4,6}}; for (int i = 0; i < num.length; i++) {
             System.out.print(num[i][j]);}
             System.out.println("");}
 
-
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+           
 # JIHGGHJ
+
 ## UGIUH
+
 ### YDGUGIOJH
+
 #### TGUUG
+
 ###### YFUGI
+
 ###### CHUYBKJ
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
